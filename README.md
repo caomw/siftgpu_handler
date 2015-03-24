@@ -1,5 +1,8 @@
 # Handler for SIFT #
 
+## Notice ##
+This is the showcase code for my application of GSoC 2015. Notice that this repository relies on SiftGPU by Changchang Wu (http://cs.unc.edu/~ccwu/siftgpu/) and our unshared repositories owned by our group, currently you can not build it successfully on your machine.
+
 This README file documents how to use the handler to siftgpu. This mainly includes two parts: one for generating sift files, another for matching sift files. The following is the detailed descriptions.
 
 ## 1. Sift Files Generation ##
